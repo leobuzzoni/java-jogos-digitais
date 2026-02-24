@@ -54,7 +54,7 @@ public class Tank {
 
     public void explode() {
         this.alive = false;
-        System.out.println(this.name + "explodes.");
+        System.out.println(this.name + " explodes.");
     }
 
     public void hit() {
