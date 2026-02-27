@@ -1,3 +1,4 @@
+package lab01;
 public class Tank {
     private String name;
     private boolean alive;
